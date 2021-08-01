@@ -6,4 +6,4 @@ You can also use your mouse to highlight individual byte values by clicking on t
 - The SDL2 development library: [Mac/Windows download](https://www.libsdl.org/download-2.0.php), on Debian: `sudo apt install libsdl2-dev`
 
 ## references
-The code based on one of the [`glow`](https://github.com/grovesNL/glow) examples.
+The code is based on one of the [`glow`](https://github.com/grovesNL/glow) examples.
